@@ -1,0 +1,61 @@
+body{
+background-image: url(/image/masaaki-komori-7xP5BJ34ybg-unsplash.jpg);
+background-position: center;
+background-size: cover;
+width: 100%;
+height: 100vh;
+}
+
+.navbar{
+float:left;
+display: flex;
+align-items:center;
+justify-content: space-between;
+padding-left: 10%;
+padding-right: 30%;
+padding-top: 0%;
+color: black;
+
+
+}
+.navbar ul li{
+
+
+    list-style: none;
+    display: inline-block;
+    position: relative;
+    padding: 10px 10px;
+    font-size: 20px;
+    text-decoration: aqua none;
+    
+color: black;
+text-transform: uppercase;
+margin-left: 0 10px;}
+
+#logo{
+
+width: 120px;
+cursor:pointer;
+
+}
+
+
+.content{
+color:lightcoral;
+width: 100%;
+text-align: center;
+top: 50%;
+position: absolute;
+text-decoration-color: blue;
+
+}
+#image{
+font-weight: bold;
+border-radius: 20px;
+width: 10%;
+
+
+
+
+
+}
